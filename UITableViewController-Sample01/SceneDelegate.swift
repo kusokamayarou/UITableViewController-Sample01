@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  UITableViewController-Sample01
 //
-//  Created by Yukihiro Uekama on 2019/11/26.
+//  Created by Kusokamayarou on 2019/11/26.
 //  Copyright © 2019 Makurazakiutoya. All rights reserved.
 //
 
